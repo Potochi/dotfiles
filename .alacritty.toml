@@ -1,0 +1,12 @@
+[env]
+TERM = "alacritty"
+
+[font]
+size = 20.0
+
+[font.normal]
+# family = "BigBlue_TerminalPlus Nerd Font Mono"
+family = "Pragmasevka Nerd Font"
+
+[window]
+option_as_alt = "OnlyLeft"
